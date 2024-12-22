@@ -1,10 +1,11 @@
 import logo from './logo.svg';
-import './App.css';
-import BlockchainViewer from './BlockchainViewer';
+import BlockchainViewer from './components/BlockchainViewer';
+import Navbar from './components/NavBar';
 
 function App() {
   return (
     <div>
+      <Navbar />
       <BlockchainViewer />
     </div>
   );
