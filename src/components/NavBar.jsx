@@ -51,8 +51,8 @@ const NavBar = () => {
                 alt="Blockchain Experiment"
               />
             </div>
-            <div>
-              <div>
+            <div className="hidden sm:block sm:ml-6">
+              <div className="flex space-x-4">
                 {navigation.map((item) => (
                   <a
                     key={item.name}
