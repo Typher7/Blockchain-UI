@@ -23,7 +23,7 @@ function Blocks() {
   useEffect(() => {
     // Fetch Blockchain data when the component loads
     axios
-      .get("http://127.0.0.1:5000/chain")
+      .get("https://py-blockchain.onrender.com/chain")
       .then((response) => {
         setBlocks(response.data.chain);
         setDataTable1(response.data.chain.slice(0, resultsPerPage)); // Set initial data for the table
