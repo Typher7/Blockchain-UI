@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Blockchain-UI/static/css/main.0aca0f89.css",
+    "main.js": "/Blockchain-UI/static/js/main.eb5c9a0a.js",
+    "static/media/macbook.jpg": "/Blockchain-UI/static/media/macbook.9fb4753c5e78826aa88e.jpg",
+    "static/media/profile.webp": "/Blockchain-UI/static/media/profile.3d5bf5658e8400abfc3e.webp",
+    "static/media/virt_curr.png": "/Blockchain-UI/static/media/virt_curr.eb77bedaee4b38bdc3ee.png",
+    "static/media/blockchain.png": "/Blockchain-UI/static/media/blockchain.2c7cf6c5bafaed3869bd.png",
+    "index.html": "/Blockchain-UI/index.html",
+    "main.0aca0f89.css.map": "/Blockchain-UI/static/css/main.0aca0f89.css.map",
+    "main.eb5c9a0a.js.map": "/Blockchain-UI/static/js/main.eb5c9a0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aca0f89.css",
+    "static/js/main.eb5c9a0a.js"
+  ]
+}
